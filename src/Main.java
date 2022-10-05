@@ -21,6 +21,7 @@ public class Main {
         Plantel.insertar(j5.getId_jugador(), j5);
         Plantel.insertar(j6.getId_jugador(), j6);
         Plantel.insertar(j7.getId_jugador(), j7);
+        System.out.println("hoa");
 
         Plantel.profundidad();
         System.out.println();
